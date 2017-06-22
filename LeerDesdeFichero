@@ -1,5 +1,5 @@
 #!/bin/bash
-SUM='cat InputFile |wc -l'
+SUM='cat InputFile | wc -l'
 for A in 'seq 1 $TOTAL' ; do
 head -$A InputFile | tail -1
 done
