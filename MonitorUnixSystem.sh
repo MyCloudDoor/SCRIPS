@@ -1,6 +1,6 @@
                   ####################################################################################################
                   #                                        MonitorUnixSystem.sh                                      #
-                  # Written for MyCloudDoor.com for the post MyCloudDoor                                             #
+                  #                                            MyCloudDoor                                           #
                   ####################################################################################################
 #!/bin/bash
 # unset any variable which system may be using
