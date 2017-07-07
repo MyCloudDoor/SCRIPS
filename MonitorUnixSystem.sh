@@ -1,9 +1,9 @@
                   ####################################################################################################
-                  #                                        Tecmint_monitor.sh                                        #
-                  # Written for Tecmint.com for the post www.tecmint.com/linux-server-health-monitoring-script/      #
+                  #                                        MonitorUnixSystem.sh                                      #
+                  # Written for MyCloudDoor.com for the post MyCloudDoor                                             #
                   # If any bug, report us in the link below                                                          #
                   # Free to use/edit/distribute the code below by                                                    #
-                  # giving proper credit to Tecmint.com and Author                                                   #
+                  # giving proper credit to MyCloudDoor.com and MyCloudDoor                                          #
                   #                                                                                                  #
                   ####################################################################################################
 #! /bin/bash
@@ -36,7 +36,7 @@ fi
 if [[ ! -z $vopt ]]
 then
 {
-echo -e "tecmint_monitor version 0.1\nDesigned by Tecmint.com\nReleased Under Apache 2.0 License"
+echo -e "tecmint_monitor version 0.1\nDesigned by MyCloudDoor.com\nReleased Under Apache 2.0 License"
 }
 fi
 
