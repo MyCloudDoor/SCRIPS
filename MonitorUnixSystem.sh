@@ -2,7 +2,7 @@
                   #                                        MonitorUnixSystem.sh                                      #
                   # Written for MyCloudDoor.com for the post MyCloudDoor                                             #
                   ####################################################################################################
-#! /bin/bash
+#!/bin/bash
 # unset any variable which system may be using
 
 # clear the screen
