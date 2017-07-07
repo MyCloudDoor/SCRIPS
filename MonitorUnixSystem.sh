@@ -4,7 +4,6 @@
                   # If any bug, report us in the link below                                                          #
                   # Free to use/edit/distribute the code below by                                                    #
                   # giving proper credit to MyCloudDoor.com and MyCloudDoor                                          #
-                  #                                                                                                  #
                   ####################################################################################################
 #! /bin/bash
 # unset any variable which system may be using
