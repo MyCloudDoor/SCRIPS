@@ -1,6 +1,6 @@
                   ##############################################################################################################################
                   #                                        ReadFromFile.sh                                                                     #
-                  # Written for MyCloudDoor for the post https://github.com/MyCloudDoor/UnixScripting.gitlinux-server-health-monitoring-script/#
+                  # Written for MyCloudDoor for the post https://github.com/MyCloudDoor/SCRIPS/blob/master/UNIX/Read_FromFile.sh               #
                   # If any bug, report us in the link below                                                                                    #
                   # Free to use/edit/distribute the code below by                                                                              #
                   # giving proper credit to MyCloudDoor.com                                                                                    #
