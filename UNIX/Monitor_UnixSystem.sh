@@ -1,11 +1,11 @@
-                  ####################################################################################################
-                  #                                        MonitorUnixSystem.sh                                        #
-                  # Written for MyCloudDoor for the post www.MyCloudDoor.com/linux-server-health-monitoring-script/      #
-                  # If any bug, report us in the link below                                                          #
-                  # Free to use/edit/distribute the code below by                                                    #
-                  # giving proper credit to MyCloudDoor.com                                                          #
-                  #                                                                                                  #
-                  ####################################################################################################
+                  ####################################################################################################################
+                  #                                        MonitorUnixSystem.sh                                                      #
+                  # Written for MyCloudDoor for the post https://github.com/MyCloudDoor/SCRIPS/blob/master/UNIX/Monitor_UnixSystem.sh#
+                  # If any bug, report us in the link below                                                                          #
+                  # Free to use/edit/distribute the code below by                                                                    #
+                  # giving proper credit to MyCloudDoor.com                                                                          #
+                  #                                                                                                                  #
+                  ####################################################################################################################
 #! /bin/bash
 # unset any variable which system may be using
 
