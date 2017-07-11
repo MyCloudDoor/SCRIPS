@@ -107,11 +107,6 @@ echo -e '\E[32m'"Load Average :" $tecreset $loadaverage
 tecuptime=$(uptime | awk '{print $3,$4}' | cut -f1 -d,)
 echo -e '\E[32m'"System Uptime Days/(HH:MM) :" $tecreset $tecuptime
 
-# Check Next time
-cd /usr/bin
-wget -c https://raw.github.com/KittyKatt/screenFetch/master/screenfetch-dev -O screenfetch
-chmod +x screenfetch
-
 # Unset Variables
 unset tecreset os architecture kernelrelease internalip externalip nameserver loadaverage
 
